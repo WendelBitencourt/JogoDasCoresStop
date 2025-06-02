@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "JogoDasCoresStop",
+    "name": "Jogo das Cores Stop",
     "slug": "JogoDasCoresStop",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,10 +20,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.minduim.JogoDasCoresStop"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "43825acf-75ab-4fd0-a78f-855c3b6c0fbb"
+      }
     }
   }
 }
