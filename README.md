@@ -3,7 +3,7 @@
 Um aplicativo acessível e interativo inspirado no jogo de cartas "Cool Camels Snap", adaptado para terapia ocupacional. Ele auxilia pessoas que não falam, permitindo que o aplicativo pronuncie o nome das cores, e também pessoas com deficiência visual, pois o nome da cor é falado em voz alta ao tocar no botão correspondente. Desenvolvido com React Native e Expo, o app promove inclusão ao facilitar a participação de diferentes públicos no jogo adaptado "Stop".
 
 
-<img src="assets/app.jpeg" alt="Tela inicial" style="width:30%; max-width:400px">
+<img src="assets/app.jpeg" alt="Tela inicial" style="width:35%; max-width:400px">
 
 ## Estrutura do Projeto
 
